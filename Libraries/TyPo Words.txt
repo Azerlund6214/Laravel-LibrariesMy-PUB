@@ -1,0 +1,34 @@
+# - ### ### ###
+#   NOTE: Коплю слова которые IDE считает ошибочными.
+
+MSEC - DEDIC - Dicer - xmlhttprequest - KLUBNIKA - KLEVER
+nosniff - ANTY - Imgur - suba - bronyis - DOFAST - passw
+xxxxx - MYTIMER - DESTR - TERMIN - Tmsk - Predef - KOVER
+Payeer - Kassa - reposted - parsemode - KINO - Perekrut
+Verif - IMEI - reposts - mediana - SUBPAD - SAMEORIGIN
+translit - ruseng - hexchars - crit - accur - COINBASE
+RAWSTR - BINANCE - USDT - SFCRYPTO - COINMARKET - patt
+Vers - platf - SOLOPIC - GOHOME - endphp - endsection
+Elems - Parcer - Posl - Unificator - UNIF - cssscript
+Sait - CSRF - WEBHOOK - incrementor - Xxxx - NOORIGIN
+errorlog - errstr - filesize - Zaliv - DISP - NODEL
+IPINFO - Vhost - letsencrypt - SENDED - emul - Andr
+Jsoner - Asoc - Includer - Proj - Ancii - Untangler
+Succ - ONESTR - Postov - Arrayer - Satoshi - slogov
+worktest - alifer - sliv - Dratuti - Redir - CURLE
+Zabcdefghijklmnopqrstuvwxyz - Bott - symb - ABCDEF
+
+GENSH
+genshin
+prush
+UGOL
+OZEN
+KAWA
+BOOLS
+DESCR
+CHBOT
+VSEBOT
+NOONE
+
+
+# - ### ### ###
